@@ -1,0 +1,61 @@
+===== NPCs =====
+
+Name: The Ash-Walker
+Role: Wandering Hermit
+Location: Dead Ember Path
+Dialogue: "Even cinders have memories... tread lightly, child of ash."
+Function: Offers cryptic hints and lore fragments.
+
+Name: Blind Oracle of Phra Sai
+Role: Seer
+Location: Shrine of Lost Eyes
+Dialogue: "Your fate coils like a serpent... tighten or release, the choice is thine."
+Function: Foretells outcomes of player choices, offers quest paths.
+
+Name: Echo of Ananta
+Role: Lorekeeper Spirit
+Location: Samsara Spiral
+Dialogue: "I am but a ripple... yet I echo eternity."
+Function: Unlocks story lore and lost history after boss defeats.
+
+Name: Monk Vessantara
+Role: Guardian of Balance
+Location: Temple of Still Flame
+Dialogue: "Only through loss, shall you see."
+Function: Provides moral choices; gives blessings or curses based on karma.
+
+===== Locations =====
+
+Name: Wat Thamai Ruins
+Description: Fallen temple engulfed by nature and time. Spirits of former monks linger in silence.
+Enemies: Yaksha Revenant, Drowned Arhat
+
+Name: Samsara Spiral
+Description: An endless cave symbolizing reincarnation. Time distorts the deeper you go.
+Enemies: Aeon-Keeper Talamesis, Ananta’s Echo
+
+Name: Mount Suthanok
+Description: A sacred peak wreathed in storms. Lightning strikes those unworthy.
+Enemies: Kroneth, Bound in Gold
+
+Name: Shrine of Lost Eyes
+Description: An ancient blindfolded statue watches over it. The blind see more than the eye.
+Enemies: Mara's Whisper, Nyxcaller
+
+===== Quests =====
+
+Title: Embers of the Past
+Given By: The Ash-Walker
+Objective: Recover three soul fragments from the ruins to restore a lost memory.
+Reward: +20 Max Health, Unlocked Memory Lore
+
+Title: Trial of Samsara
+Given By: Monk Vessantara
+Objective: Die three times in the Spiral without killing. Learn the cycle of rebirth.
+Reward: "Still Flame" passive – resist death once per encounter.
+
+Title: Whisper in the Dark
+Given By: Blind Oracle of Phra Sai
+Objective: Face the illusion of your future self in the Shrine of Lost Eyes.
+Reward: Choose to gain +5 Strength or +5 Wisdom.
+

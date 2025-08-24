@@ -1,0 +1,98 @@
+====================
+ASHES OF AETHERON - COMPLETE LORE
+====================
+
+MAIN LORE
+---------
+The world of Aetheron was once whole, a land where **life, death, and rebirth** flowed in harmony,
+bound together by the **Veil of Samsara**. But ambition shattered balance.
+
+A king named **Kroneth** and a false prophet called **Mara** tore the veil apart. 
+Their lust for immortality brought chaos: spirits could no longer return to the cycle. 
+Souls lingered, and the world rotted. Gods abandoned Aetheron, except for one, 
+**Ananta**, the Great Serpent, guardian of the endless cycle. 
+
+In his final act, Ananta branded a mortal with the **Mark of the Cycle**, you.
+Through you, the broken circle might be restored.
+
+INTRODUCTION (Starting Text)
+---------
+"You awaken beneath skies the color of burnt bone. Ash clings to your skin, and the earth beneath you
+is warm with the fading memory of fire. In your palm lies a sigil, a serpent devouring its own tail,
+etched into your flesh. You do not know your name. You do not know why you are here. Only the whisper
+of an old god coils around your thoughts:
+
+    'Restore the Cycle... or drown in the flames of your own making.'
+
+The trees around you breathe like dying lungs. Far to the east, a golden mountain pierces the heavens,
+its peak swallowed by storms. To the west, ruins of temples and bones of forgotten kings sleep beneath
+a sea of fog. You feel them watching you, waiting."
+
+THE QUEST
+---------
+Your journey will take you through the broken remains of Aetheron:
+1. **The Forest of Silence**, Where you awaken.
+2. **Wat Thamai Ruins**, Fallen temples haunted by Yaksha guardians.
+3. **Samsara Spiral**, A labyrinth of time, where death is never the end.
+4. **Mount Suthanok**, Home to the last Flame of Stillness, where gods once walked.
+
+You must recover the three **Fangs of Ananta** and confront those who shattered the veil.
+Each Fang unlocks a fragment of your own lost memory, revealing the truth of your birth.
+
+MYSTERY OF THE PLAYER
+---------
+You are not merely a mortal.
+You are **the last fragment of Ananta's soul**, reborn into flesh. 
+Your choices are not just for the world, but for yourself. 
+Will you restore the cycle, or seize control of it?
+
+ENDING CHOICES
+--------------
+
+ENDING 1: RESTORE THE CYCLE (True Ending)
+-----------------------------------------
+Atop Mount Suthanok, the storm quiets as you face **Kroneth Bound in Gold** and **Mara’s Whisper**.
+After the battle, the final Fang fuses with your soul. 
+Ananta speaks through you:
+
+    "The cycle turns once more."
+
+Your body dissolves into starlight. The Veil of Samsara is restored. 
+The souls of the dead find peace. The world forgets you, but balance returns.
+
+ENDING TEXT:
+"You vanish into the endless sky, leaving behind a silent, healed world. 
+Your story ends where all stories must — within the turning wheel."
+
+---
+
+ENDING 2: SEIZE THE CYCLE (Dark Ending)
+---------------------------------------
+With the Fangs united, you refuse to restore the cycle. 
+Instead, you shatter the last barrier and bind the world’s soul to yourself.
+You become **the new god of Aetheron**.
+
+ENDING TEXT:
+"The wheel does not turn. It breaks.
+The souls of Aetheron now orbit you, their hollow master.
+A new age begins, not of balance — but of stillness, under your rule."
+
+---
+
+ENDING 3: FAIL (Bad Ending)
+---------------------------
+If you fall to Kroneth and Mara before uniting the Fangs, the last flame dies.
+
+ENDING TEXT:
+"The ash grows cold. The serpent sleeps forever. 
+Aetheron collapses into silence, devoured by the void."
+
+---
+
+EPILOGUE
+--------
+No one will remember your name.
+Only the choice you made.
+And in the whisper of the wind, the faintest hiss of a serpent endures.
+
+====================

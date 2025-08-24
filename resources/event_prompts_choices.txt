@@ -1,0 +1,65 @@
+====================
+EVENT PROMPTS & PLAYER CHOICES
+====================
+
+EVENT: The Ash-Walker's Offer
+------------------------------
+Location: Dead Ember Path
+Prompt:
+"The Ash-Walker extends a withered hand. 'Do you seek knowledge of the past, or strength for what lies ahead?'
+Choose:
+1. Ask for Knowledge (Gain lore fragment, +10 Wisdom)
+2. Ask for Strength (Gain +5 Strength)
+3. Refuse (No reward, path remains unknown)"
+
+---
+
+EVENT: The Blind Oracle's Vision
+--------------------------------
+Location: Shrine of Lost Eyes
+Prompt:
+"The Blind Oracle grips your arm. 'I see three roads before you. 
+One will free the world, one will bind it, and one will end it all.
+Which shall you choose to hear?'
+Choose:
+1. The path of Balance (Hints for the true ending)
+2. The path of Power (Hints for the dark ending)
+3. The path of Silence (Hints for the bad ending)"
+
+---
+
+EVENT: Memory Shard
+-------------------
+Location: Samsara Spiral (after 2nd Fang)
+Prompt:
+"A vision burns in your mind. You remember a moment from before you were human.
+Do you embrace the memory or turn away?"
+Choose:
+1. Embrace the memory (Recover lore, +10 Wisdom)
+2. Turn away (Lose chance to learn the truth, +10 Strength)"
+
+---
+
+EVENT: Monk Vessantara's Trial
+------------------------------
+Location: Temple of Still Flame
+Prompt:
+"The monk sets a bowl of still water before you. 'Strike it, or let it rest. Choose.'
+Choose:
+1. Strike the bowl (Karma tilts toward chaos; gain +10 Strength)
+2. Let it rest (Karma tilts toward balance; gain +10 Wisdom)"
+
+---
+
+EVENT: Final Confrontation
+--------------------------
+Location: Mount Suthanok
+Prompt:
+"As the storms roar, Kroneth and Mara stand before the Flame.
+Will you fight for balance or seize control?"
+Choose:
+1. Fight to restore the cycle (True Ending Path)
+2. Seize the power of the Fangs for yourself (Dark Ending Path)
+3. Submit and let the world die (Bad Ending Path)"
+
+====================

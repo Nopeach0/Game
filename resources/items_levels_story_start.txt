@@ -1,0 +1,143 @@
+
+===== Items & Weapons =====
+
+Name: Blade of Samsara
+Type: Weapon
+Effect: +20 damage, chance to reset cooldown on kill.
+Rarity: Legendary
+Lore: Forged in the Spiral, its edge slices the cycle of rebirth.
+
+Name: Tears of the Arhat
+Type: Potion
+Effect: Restores 75% health, grants brief invincibility.
+Rarity: Rare
+Lore: Distilled from the sorrow of monks who failed enlightenment.
+
+Name: Incense of Mara
+Type: Consumable
+Effect: Restores 50% health for 10 seconds.
+Rarity: Uncommon
+Lore: Banned ritual incense that summons inner demons.
+
+Name: Cloak of the Ashen Pact
+Type: Armor
+Effect: Reduce damage taken by 15%; immunity to fire.
+Rarity: Epic
+Lore: Worn by the last pilgrim who walked through flame unscathed.
+
+Name: Fang of Ananta
+Type: Weapon
+Effect: +35 damage, applies poison over 3 turns.
+Rarity: Legendary
+Lore: One of three sacred fangs from the Serpent God. It whispers fate with each strike.
+
+Name: Emberbrand
+Type: Weapon
+Effect: +15 damage, chance to ignite enemies for burn damage.
+Rarity: Rare
+Lore: Pulled from the heart of Mount Suthanok — it never cools.
+
+Name: Shard of Dukkha
+Type: Weapon
+Effect: +10 damage, chance to inflict “Despair” (reduces enemy attack).
+Rarity: Uncommon
+Lore: A blade born from suffering, it seeks the cracks in one’s will.
+
+Name: Lotus Fang
+Type: Weapon
+Effect: +18 damage, heals user for 5% of damage dealt.
+Rarity: Epic
+Lore: Said to bloom in blood, not mud.
+
+Name: Veil of Samsara
+Type: Armor
+Effect: Reflects 10% damage, reduces dark magic by 25%.
+Rarity: Epic
+Lore: Woven from forgotten prayers and lost memories.
+
+Name: Chains of Kroneth
+Type: Armor
+Effect: Increases defense greatly, reduces speed.
+Rarity: Rare
+Lore: The very bindings that chained the golden tyrant.
+
+Name: Robe of the Sealed Eye
+Type: Armor
+Effect: Boosts evasion by 20%, grants “Insight” (chance to foresee enemy attacks).
+Rarity: Legendary
+Lore: Once worn by the Oracle who blinded herself to see truth.
+
+Name: Nectar of Still Flame
+Type: Potion
+Effect: Fully restores health and removes all debuffs.
+Rarity: Legendary
+Lore: Brewed only once a century under the flame that never moves.
+
+Name: Whisperleaf
+Type: Consumable
+Effect: Doubles stealth for 15 seconds.
+Rarity: Common
+Lore: Crushed from a forest plant that speaks only in silence.
+
+Name: Essence of Nyx
+Type: Consumable
+Effect: Grants invisibility for 10 seconds.
+Rarity: Epic
+Lore: Distilled from voidlight in the Temple of Eternal Night.
+
+Name: Monk's Ember Pearl
+Type: Potion
+Effect: Revives the player with 50% health on death. One-time use.
+Rarity: Rare
+Lore: A relic of mercy, forged by monks who walked willingly into death.
+
+===== Leveling System =====
+
+XP Formula: XP needed = level * 100
+
+On Level Up:
+- +1 stat point (player chooses between Strength, Wisdom, Agility, or Vitality)
+- +5 Max Health
+- Unlocks new ability every 5 levels
+
+Stats:
+- Strength: Increases physical attack power.
+- Wisdom: Boosts magic and dialogue options.
+- Agility: Affects dodge and movement speed.
+- Vitality: Enhances max health and defense.
+
+===== Main Story: “Ashes of Aetheron” =====
+
+The world of Aetheron lies broken.
+
+Once a land where spirit and matter danced in harmony, it was shattered when the **Veil of Samsara** was torn by greedy kings and false prophets. Now, the cycle of life and death is fractured. Spirits linger. Rebirth is lost. Monsters rise from forgotten karma.
+
+You awaken in the **Forest of Silence**, your memory gone — except a single vision: a colossal serpent coiling around a burning tree, whispering, “_Restore the cycle, or drown in flame._”
+
+You are marked by the ancient god **Ananta**, a remnant of balance now fading.
+
+To restore the world, you must:
+1. Reignite the **Flame of Stillness** atop Mount Suthanok.
+2. Traverse the **Samsara Spiral** and reclaim the three **Fangs of Ananta**.
+3. Face **Kroneth, Bound in Gold**, and **Mara’s Whisper**, the ones who broke the Veil.
+4. Choose: **Restore the cycle... or control it.**
+
+===== Starting Text for Player =====
+
+"You awaken beneath ash-heavy skies, the ground still warm with the memory of fire. 
+In your palm lies a symbol — a serpent devouring its own tail.
+
+Voices echo from the trees, and time feels fractured. The world has forgotten you — yet something old remembers.
+
+Walk the forgotten path, seeker. The cycle awaits."
+
+Name: Emberbrand
+Type: Weapon
+Effect: +15 damage, chance to ignite enemies for burn damage.
+Rarity: Rare
+Lore: Pulled from the heart of Mount Suthanok — it never cools.
+Name: Emberbrand
+Type: Weapon
+Effect: +15 damage, chance to ignite enemies for burn damage.
+Rarity: Rare
+Lore: Pulled from the heart of Mount Suthanok — it never cools.

@@ -1,0 +1,68 @@
+===== NPCs =====
+
+Name: Thanatos
+Type: Specter
+Health: 300
+Lore: Specter born from forgotten dreams, walks between death and time.
+Dialogue: "Dream... or die... all is one."
+
+Name: Yaksha Revenant
+Type: Undead Guardian
+Health: 250
+Lore: Once a benevolent temple guardian, cursed to wander the ruins of Wat Thamai in eternal rage.
+Dialogue: "You dare step on holy ground... now tainted."
+
+Name: Mara's Whisper
+Type: Illusionist Demon
+Health: 250
+Lore: Embodiment of temptation, creeps into the mind of the unready with visions of false hope.
+Dialogue: "See what you crave... and be lost in it."
+
+Name: Kroneth, Bound in Gold
+Type: Cursed Titan
+Health: 300
+Lore: A once-divine king punished for his greed, his molten gold armor sears all who draw near.
+Dialogue: "Gold burns hotter than any flame."
+
+Name: The Drowned Arhat
+Type: Fallen Monk
+Health: 200
+Lore: A monk who defied the law of impermanence, drowned in his desire for immortality.
+Dialogue: "I sought to live forever... now I drown forever."
+
+Name: Ravana Reborn
+Type: Demon King
+Health: 250
+Lore: Reborn with a fragmented soul, seeks to reclaim his power through chaos and fire.
+Dialogue: "From ashes I rise, and all shall kneel!"
+
+Name: Nyxcaller
+Type: Void Priest
+Health: 300
+Lore: Worshipper of the night goddess Nyx, draws strength from eternal darkness.
+Dialogue: "Night consumes. You will not see dawn."
+
+Name: Naraka Beast
+Type: Hellspawn
+Health: 300
+Lore: Birthed in the lowest Buddhist hell, it feasts on the sins of the lost.
+Dialogue: "Sin smells sweet... come closer!"
+
+Name: Aeon-Keeper Talamesis
+Type: Time Guardian
+Health: 400
+Lore: Timeless protector of the Samsara Spiral, punishes those who try to escape fate.
+Dialogue: "Time will bind you, as it binds all."
+
+Name: Ananta's Echo
+Type: Serpent Wraith
+Health: 350
+Lore: A spectral fragment of the great serpent Ananta, whispers truths no mortal should hear.
+Dialogue: "The serpent coils... you cannot flee truth."
+
+===== Locations =====
+Name: Godther
+Type: Boss
+Health: 200
+Role: Aggressor
+Dialouge: I will destroy you!
